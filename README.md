@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently studing Data Science and A.I. at Leeds Beckett Universit; this account serving as a record of my coding journy, including small beginner programs and larger projects.
+
 <!--
 **NDTA-EN/NDTA-EN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
